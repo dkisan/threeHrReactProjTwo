@@ -1,0 +1,19 @@
+form{
+    width: 60vw;
+    margin: 5vh auto;
+}
+
+input{
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
+    text-align: left;
+}
+
+button{
+    background-color: rgb(162, 51, 51);
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}

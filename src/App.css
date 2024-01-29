@@ -1,0 +1,13 @@
+.cartbtn{
+  position: absolute;
+  top: 1vh;
+  right: 1vw;
+  cursor: pointer;
+}
+.cartbtn span{
+  color: rgb(231, 235, 218);
+  font-weight: bolder;
+  font-size: 20px;
+  padding: 2px;
+  background-color: maroon;
+}

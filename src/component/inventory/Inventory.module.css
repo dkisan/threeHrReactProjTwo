@@ -1,0 +1,12 @@
+.container{
+    width: 60vw;
+    margin: 1vh auto;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    border-bottom: 1px solid rgb(162, 51, 51);
+}
